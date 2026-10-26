@@ -1,6 +1,6 @@
 {
   "title": "NBA Draft League 2026-2027",
-  "updated": "October 25, 2026 at 11:16 PM",
+  "updated": "October 25, 2026 at 11:34 PM",
   "currentWeek": "week_1",
   "playerOfWeek": {
     "week": "week_1",
@@ -839,6 +839,78 @@
   },
   "historical": [
     {
+      "Season": "2022-2023",
+      "Player": "Alex",
+      "Points": 245,
+      "Champion": true
+    },
+    {
+      "Season": "2022-2023",
+      "Player": "Christian",
+      "Points": 242,
+      "Champion": false
+    },
+    {
+      "Season": "2022-2023",
+      "Player": "Trace",
+      "Points": 241,
+      "Champion": false
+    },
+    {
+      "Season": "2022-2023",
+      "Player": "Billy",
+      "Points": 239,
+      "Champion": false
+    },
+    {
+      "Season": "2022-2023",
+      "Player": "Stup",
+      "Points": 225,
+      "Champion": false
+    },
+    {
+      "Season": "2022-2023",
+      "Player": "Ryan",
+      "Points": 224,
+      "Champion": false
+    },
+    {
+      "Season": "2023-2024",
+      "Player": "Christian",
+      "Points": 279,
+      "Champion": true
+    },
+    {
+      "Season": "2023-2024",
+      "Player": "Trace",
+      "Points": 270,
+      "Champion": false
+    },
+    {
+      "Season": "2023-2024",
+      "Player": "Stup",
+      "Points": 266,
+      "Champion": false
+    },
+    {
+      "Season": "2023-2024",
+      "Player": "Alex",
+      "Points": 244,
+      "Champion": false
+    },
+    {
+      "Season": "2023-2024",
+      "Player": "Billy",
+      "Points": 243,
+      "Champion": false
+    },
+    {
+      "Season": "2023-2024",
+      "Player": "Ryan",
+      "Points": 237,
+      "Champion": false
+    },
+    {
       "Season": "2024-2025",
       "Player": "Ryan",
       "Points": 273,
@@ -846,7 +918,7 @@
     },
     {
       "Season": "2024-2025",
-      "Player": "Alexander",
+      "Player": "Alex",
       "Points": 249,
       "Champion": false
     },
@@ -888,7 +960,7 @@
     },
     {
       "Season": "2025-2026",
-      "Player": "Alexander",
+      "Player": "Alex",
       "Points": 250,
       "Champion": false
     },
@@ -912,10 +984,74 @@
     }
   ],
   "priorChampions": [
+    "Alex",
+    "Christian",
     "Ryan",
     "Trace"
   ],
   "historicalSeasons": [
+    {
+      "Season": "2022-2023",
+      "Champion": "Alex",
+      "Points": 245,
+      "Standings": [
+        {
+          "Player": "Alex",
+          "Points": 245
+        },
+        {
+          "Player": "Christian",
+          "Points": 242
+        },
+        {
+          "Player": "Trace",
+          "Points": 241
+        },
+        {
+          "Player": "Billy",
+          "Points": 239
+        },
+        {
+          "Player": "Stup",
+          "Points": 225
+        },
+        {
+          "Player": "Ryan",
+          "Points": 224
+        }
+      ]
+    },
+    {
+      "Season": "2023-2024",
+      "Champion": "Christian",
+      "Points": 279,
+      "Standings": [
+        {
+          "Player": "Christian",
+          "Points": 279
+        },
+        {
+          "Player": "Trace",
+          "Points": 270
+        },
+        {
+          "Player": "Stup",
+          "Points": 266
+        },
+        {
+          "Player": "Alex",
+          "Points": 244
+        },
+        {
+          "Player": "Billy",
+          "Points": 243
+        },
+        {
+          "Player": "Ryan",
+          "Points": 237
+        }
+      ]
+    },
     {
       "Season": "2024-2025",
       "Champion": "Ryan",
@@ -926,7 +1062,7 @@
           "Points": 273
         },
         {
-          "Player": "Alexander",
+          "Player": "Alex",
           "Points": 249
         },
         {
@@ -961,7 +1097,7 @@
           "Points": 266
         },
         {
-          "Player": "Alexander",
+          "Player": "Alex",
           "Points": 250
         },
         {
