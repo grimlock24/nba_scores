@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NBA Draft League 2026-2027</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">NBA DRAFT LEAGUE</p>
+        <h1 id="title">2026-2027 Season Dashboard</h1>
+        <p id="updated" class="muted">Loading latest results...</p>
+      </div>
+      <div class="hero-badge">LIVE RESULTS</div>
+    </header>
+
+    <section class="card leaderboard-card">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">DRAFT LEAGUE</p>
+          <h2>Player leaderboard</h2>
+        </div>
+        <span id="week-label" class="pill"></span>
+      </div>
+      <p id="season-note" class="odds-note"></p>
+      <div class="table-wrap"><table id="leaderboard-table"></table></div>
+    </section>
+
+    <section id="player-of-week" class="card player-of-week"></section>
+
+    <section class="card">
+      <div class="section-heading"><h2>Weekly scores</h2></div>
+      <canvas id="score-chart" aria-label="Cumulative player scores"></canvas>
+    </section>
+
+    <section class="card">
+      <div class="section-heading">
+        <div><p class="eyebrow">NBA</p><h2>Standings by division</h2></div>
+        <input id="team-filter" class="filter" type="search" placeholder="Filter teams">
+      </div>
+      <div class="table-wrap"><table id="standings-table"></table></div>
+    </section>
+
+    <section class="card">
+      <div class="section-heading"><div><p class="eyebrow">DRAFT</p><h2>Selections</h2></div></div>
+      <div class="table-wrap"><table id="draft-table"></table></div>
+    </section>
+
+    <section class="card">
+      <div class="section-heading">
+        <div><p class="eyebrow">SCORING DETAIL</p><h2>Team picks and points</h2></div>
+        <select id="player-filter" class="filter" aria-label="Filter scoring detail by player">
+          <option value="">All players</option>
+        </select>
+      </div>
+      <div class="table-wrap"><table id="pick-scores-table"></table></div>
+    </section>
+
+    <section class="card">
+      <div class="section-heading">
+        <div><p class="eyebrow">LEAGUE HISTORY</p><h2>Past seasons</h2></div>
+        <span class="pill">Champions by season</span>
+      </div>
+      <div class="table-wrap"><table id="historical-table"></table></div>
+      <div id="historical-details" class="historical-details"></div>
+    </section>
+  </main>
+  <footer>Updated from the NBA 2026-2027 workbook &middot; <a href="https://github.com/grimlock24/nba_scores">View project</a></footer>
+  <script src="app.js"></script>
+</body>
+</html>

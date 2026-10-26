@@ -1,0 +1,491 @@
+{
+  "title": "NBA Draft League 2026-2027",
+  "updated": "October 25, 2026 at 10:51 PM",
+  "currentWeek": "week_1",
+  "playerOfWeek": {
+    "week": "week_1",
+    "players": [],
+    "points": 0
+  },
+  "standings": [
+    {
+      "Team": "Detroit Pistons",
+      "Conference": "Eastern",
+      "Division": "Central",
+      "W": 2,
+      "L": 0,
+      "PCT": 1.0,
+      "PF": 249,
+      "PA": 224,
+      "STRK": "2W"
+    },
+    {
+      "Team": "Houston Rockets",
+      "Conference": "Western",
+      "Division": "Southwest",
+      "W": 3,
+      "L": 0,
+      "PCT": 1.0,
+      "PF": 363,
+      "PA": 334,
+      "STRK": "3W"
+    },
+    {
+      "Team": "Los Angeles Lakers",
+      "Conference": "Western",
+      "Division": "Pacific",
+      "W": 2,
+      "L": 0,
+      "PCT": 1.0,
+      "PF": 252,
+      "PA": 222,
+      "STRK": "2W"
+    },
+    {
+      "Team": "Memphis Grizzlies",
+      "Conference": "Western",
+      "Division": "Southwest",
+      "W": 2,
+      "L": 0,
+      "PCT": 1.0,
+      "PF": 234,
+      "PA": 211,
+      "STRK": "2W"
+    },
+    {
+      "Team": "Minnesota Timberwolves",
+      "Conference": "Western",
+      "Division": "Northwest",
+      "W": 2,
+      "L": 0,
+      "PCT": 1.0,
+      "PF": 246,
+      "PA": 199,
+      "STRK": "2W"
+    },
+    {
+      "Team": "Oklahoma City Thunder",
+      "Conference": "Western",
+      "Division": "Northwest",
+      "W": 2,
+      "L": 0,
+      "PCT": 1.0,
+      "PF": 212,
+      "PA": 188,
+      "STRK": "2W"
+    },
+    {
+      "Team": "Philadelphia 76ers",
+      "Conference": "Eastern",
+      "Division": "Atlantic",
+      "W": 3,
+      "L": 0,
+      "PCT": 1.0,
+      "PF": 347,
+      "PA": 322,
+      "STRK": "3W"
+    },
+    {
+      "Team": "Portland Trail Blazers",
+      "Conference": "Western",
+      "Division": "Northwest",
+      "W": 2,
+      "L": 0,
+      "PCT": 1.0,
+      "PF": 252,
+      "PA": 203,
+      "STRK": "2W"
+    },
+    {
+      "Team": "Toronto Raptors",
+      "Conference": "Eastern",
+      "Division": "Atlantic",
+      "W": 2,
+      "L": 0,
+      "PCT": 1.0,
+      "PF": 247,
+      "PA": 194,
+      "STRK": "2W"
+    },
+    {
+      "Team": "Atlanta Hawks",
+      "Conference": "Eastern",
+      "Division": "Southeast",
+      "W": 2,
+      "L": 1,
+      "PCT": 0.6666666666666666,
+      "PF": 374,
+      "PA": 327,
+      "STRK": "1L"
+    },
+    {
+      "Team": "Charlotte Hornets",
+      "Conference": "Eastern",
+      "Division": "Southeast",
+      "W": 2,
+      "L": 1,
+      "PCT": 0.6666666666666666,
+      "PF": 306,
+      "PA": 341,
+      "STRK": "1W"
+    },
+    {
+      "Team": "Washington Wizards",
+      "Conference": "Eastern",
+      "Division": "Southeast",
+      "W": 2,
+      "L": 1,
+      "PCT": 0.6666666666666666,
+      "PF": 354,
+      "PA": 348,
+      "STRK": "1W"
+    },
+    {
+      "Team": "Boston Celtics",
+      "Conference": "Eastern",
+      "Division": "Atlantic",
+      "W": 1,
+      "L": 1,
+      "PCT": 0.5,
+      "PF": 220,
+      "PA": 224,
+      "STRK": "1W"
+    },
+    {
+      "Team": "Cleveland Cavaliers",
+      "Conference": "Eastern",
+      "Division": "Central",
+      "W": 1,
+      "L": 1,
+      "PCT": 0.5,
+      "PF": 231,
+      "PA": 235,
+      "STRK": "1W"
+    },
+    {
+      "Team": "Denver Nuggets",
+      "Conference": "Western",
+      "Division": "Northwest",
+      "W": 1,
+      "L": 1,
+      "PCT": 0.5,
+      "PF": 225,
+      "PA": 231,
+      "STRK": "1W"
+    },
+    {
+      "Team": "Indiana Pacers",
+      "Conference": "Eastern",
+      "Division": "Central",
+      "W": 1,
+      "L": 1,
+      "PCT": 0.5,
+      "PF": 228,
+      "PA": 241,
+      "STRK": "1L"
+    },
+    {
+      "Team": "LA Clippers",
+      "Conference": "Western",
+      "Division": "Pacific",
+      "W": 1,
+      "L": 1,
+      "PCT": 0.5,
+      "PF": 238,
+      "PA": 221,
+      "STRK": "1L"
+    },
+    {
+      "Team": "Phoenix Suns",
+      "Conference": "Western",
+      "Division": "Pacific",
+      "W": 1,
+      "L": 1,
+      "PCT": 0.5,
+      "PF": 214,
+      "PA": 246,
+      "STRK": "1W"
+    },
+    {
+      "Team": "Utah Jazz",
+      "Conference": "Western",
+      "Division": "Northwest",
+      "W": 1,
+      "L": 1,
+      "PCT": 0.5,
+      "PF": 223,
+      "PA": 242,
+      "STRK": "1W"
+    },
+    {
+      "Team": "Chicago Bulls",
+      "Conference": "Eastern",
+      "Division": "Central",
+      "W": 1,
+      "L": 2,
+      "PCT": 0.3333333333333333,
+      "PF": 344,
+      "PA": 384,
+      "STRK": "1L"
+    },
+    {
+      "Team": "Dallas Mavericks",
+      "Conference": "Western",
+      "Division": "Southwest",
+      "W": 1,
+      "L": 2,
+      "PCT": 0.3333333333333333,
+      "PF": 337,
+      "PA": 355,
+      "STRK": "1L"
+    },
+    {
+      "Team": "San Antonio Spurs",
+      "Conference": "Western",
+      "Division": "Southwest",
+      "W": 1,
+      "L": 2,
+      "PCT": 0.3333333333333333,
+      "PF": 336,
+      "PA": 336,
+      "STRK": "1W"
+    },
+    {
+      "Team": "Brooklyn Nets",
+      "Conference": "Eastern",
+      "Division": "Atlantic",
+      "W": 0,
+      "L": 2,
+      "PCT": 0.0,
+      "PF": 224,
+      "PA": 235,
+      "STRK": "2L"
+    },
+    {
+      "Team": "Golden State Warriors",
+      "Conference": "Western",
+      "Division": "Pacific",
+      "W": 0,
+      "L": 3,
+      "PCT": 0.0,
+      "PF": 335,
+      "PA": 369,
+      "STRK": "3L"
+    },
+    {
+      "Team": "Miami Heat",
+      "Conference": "Eastern",
+      "Division": "Southeast",
+      "W": 0,
+      "L": 3,
+      "PCT": 0.0,
+      "PF": 327,
+      "PA": 374,
+      "STRK": "3L"
+    },
+    {
+      "Team": "Milwaukee Bucks",
+      "Conference": "Eastern",
+      "Division": "Central",
+      "W": 0,
+      "L": 3,
+      "PCT": 0.0,
+      "PF": 357,
+      "PA": 387,
+      "STRK": "3L"
+    },
+    {
+      "Team": "New Orleans Pelicans",
+      "Conference": "Western",
+      "Division": "Southwest",
+      "W": 0,
+      "L": 3,
+      "PCT": 0.0,
+      "PF": 374,
+      "PA": 384,
+      "STRK": "3L"
+    },
+    {
+      "Team": "New York Knicks",
+      "Conference": "Eastern",
+      "Division": "Atlantic",
+      "W": 0,
+      "L": 2,
+      "PCT": 0.0,
+      "PF": 203,
+      "PA": 213,
+      "STRK": "2L"
+    },
+    {
+      "Team": "Orlando Magic",
+      "Conference": "Eastern",
+      "Division": "Southeast",
+      "W": 0,
+      "L": 2,
+      "PCT": 0.0,
+      "PF": 218,
+      "PA": 247,
+      "STRK": "2L"
+    },
+    {
+      "Team": "Sacramento Kings",
+      "Conference": "Western",
+      "Division": "Pacific",
+      "W": 0,
+      "L": 2,
+      "PCT": 0.0,
+      "PF": 216,
+      "PA": 249,
+      "STRK": "2L"
+    }
+  ],
+  "draft": [],
+  "pickScores": [],
+  "playerScores": [],
+  "weeklyScores": {
+    "week_1": {}
+  },
+  "historical": [
+    {
+      "Season": "2024-2025",
+      "Player": "Ryan",
+      "Points": 273,
+      "Champion": true
+    },
+    {
+      "Season": "2024-2025",
+      "Player": "Alexander",
+      "Points": 249,
+      "Champion": false
+    },
+    {
+      "Season": "2024-2025",
+      "Player": "Christian",
+      "Points": 243,
+      "Champion": false
+    },
+    {
+      "Season": "2024-2025",
+      "Player": "Stup",
+      "Points": 239,
+      "Champion": false
+    },
+    {
+      "Season": "2024-2025",
+      "Player": "Billy",
+      "Points": 229,
+      "Champion": false
+    },
+    {
+      "Season": "2024-2025",
+      "Player": "Trace",
+      "Points": 212,
+      "Champion": false
+    },
+    {
+      "Season": "2025-2026",
+      "Player": "Trace",
+      "Points": 275,
+      "Champion": true
+    },
+    {
+      "Season": "2025-2026",
+      "Player": "Ryan",
+      "Points": 266,
+      "Champion": false
+    },
+    {
+      "Season": "2025-2026",
+      "Player": "Alexander",
+      "Points": 250,
+      "Champion": false
+    },
+    {
+      "Season": "2025-2026",
+      "Player": "Christian",
+      "Points": 239,
+      "Champion": false
+    },
+    {
+      "Season": "2025-2026",
+      "Player": "Stup",
+      "Points": 237,
+      "Champion": false
+    },
+    {
+      "Season": "2025-2026",
+      "Player": "Billy",
+      "Points": 228,
+      "Champion": false
+    }
+  ],
+  "priorChampions": [
+    "Ryan",
+    "Trace"
+  ],
+  "historicalSeasons": [
+    {
+      "Season": "2024-2025",
+      "Champion": "Ryan",
+      "Points": 273,
+      "Standings": [
+        {
+          "Player": "Ryan",
+          "Points": 273
+        },
+        {
+          "Player": "Alexander",
+          "Points": 249
+        },
+        {
+          "Player": "Christian",
+          "Points": 243
+        },
+        {
+          "Player": "Stup",
+          "Points": 239
+        },
+        {
+          "Player": "Billy",
+          "Points": 229
+        },
+        {
+          "Player": "Trace",
+          "Points": 212
+        }
+      ]
+    },
+    {
+      "Season": "2025-2026",
+      "Champion": "Trace",
+      "Points": 275,
+      "Standings": [
+        {
+          "Player": "Trace",
+          "Points": 275
+        },
+        {
+          "Player": "Ryan",
+          "Points": 266
+        },
+        {
+          "Player": "Alexander",
+          "Points": 250
+        },
+        {
+          "Player": "Christian",
+          "Points": 239
+        },
+        {
+          "Player": "Stup",
+          "Points": 237
+        },
+        {
+          "Player": "Billy",
+          "Points": 228
+        }
+      ]
+    }
+  ],
+  "gamesPlayed": 36
+}
