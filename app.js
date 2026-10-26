@@ -5,7 +5,7 @@ const cell = (value, tag = "td") => `<${tag}>${value ?? ""}</${tag}>`;
 const championKeys = new Set();
 const isChampion = player => championKeys.has(String(player).toLowerCase());
 const playerLabel = player => isChampion(player)
-  ? `<span class="player-label">${player} 🏆</span>`
+  ? `<span class="player-label"><img class="player-icon" src="NWO%20belt.png" alt="Prior champion">${player}</span>`
   : player;
 const divisionOrder = [
   "Atlantic", "Central", "Southeast",
