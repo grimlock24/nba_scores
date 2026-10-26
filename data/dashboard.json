@@ -1,6 +1,6 @@
 {
   "title": "NBA Draft League 2026-2027",
-  "updated": "October 25, 2026 at 11:49 PM",
+  "updated": "October 26, 2026 at 12:05 AM",
   "currentWeek": "week_1",
   "playerOfWeek": {
     "week": "week_1",
@@ -799,32 +799,56 @@
     {
       "Player": "Billy",
       "Points": 10,
-      "PointsBack": 0
+      "PointsBack": 0,
+      "StartingMax": 388,
+      "MaxPossible": 386,
+      "PointsRemaining": 376,
+      "Status": "In contention"
     },
     {
       "Player": "Ryan",
       "Points": 9,
-      "PointsBack": 1
+      "PointsBack": 1,
+      "StartingMax": 399,
+      "MaxPossible": 395,
+      "PointsRemaining": 386,
+      "Status": "In contention"
     },
     {
       "Player": "Christian",
       "Points": 7,
-      "PointsBack": 3
+      "PointsBack": 3,
+      "StartingMax": 401,
+      "MaxPossible": 398,
+      "PointsRemaining": 391,
+      "Status": "In contention"
     },
     {
       "Player": "Alexander",
       "Points": 6,
-      "PointsBack": 4
+      "PointsBack": 4,
+      "StartingMax": 398,
+      "MaxPossible": 393,
+      "PointsRemaining": 387,
+      "Status": "In contention"
     },
     {
       "Player": "Stup",
       "Points": 6,
-      "PointsBack": 4
+      "PointsBack": 4,
+      "StartingMax": 385,
+      "MaxPossible": 380,
+      "PointsRemaining": 374,
+      "Status": "In contention"
     },
     {
       "Player": "Trace",
       "Points": 6,
-      "PointsBack": 4
+      "PointsBack": 4,
+      "StartingMax": 398,
+      "MaxPossible": 394,
+      "PointsRemaining": 388,
+      "Status": "In contention"
     }
   ],
   "weeklyScores": {
@@ -1115,5 +1139,7 @@
       ]
     }
   ],
-  "gamesPlayed": 36
+  "gamesPlayed": 36,
+  "possiblePointsAvailable": true,
+  "scheduleGameCount": 1200
 }

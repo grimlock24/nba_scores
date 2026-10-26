@@ -25,15 +25,20 @@ function render(data) {
   document.getElementById("title").textContent = data.title;
   document.getElementById("updated").textContent = `Last updated: ${data.updated}`;
   document.getElementById("week-label").textContent = data.currentWeek || "Season";
-  document.getElementById("season-note").textContent = data.gamesPlayed
-    ? `${data.gamesPlayed} games recorded so far this season.`
-    : "The season hasn't started yet - the leaderboard fills in as games are scraped and picks score points.";
+  const scheduleComplete = (data.scheduleGameCount || 0) >= 1230;
+  document.getElementById("season-note").textContent = data.possiblePointsAvailable
+    ? `${data.gamesPlayed || 0} of 1,230 games played. Starting max: the most points a player could have scored with all games unplayed. Still possible max: points already earned plus the best case from games left. Still available: points left to earn. Conflicting picks in one game count once. A player is eliminated only if they can no longer tie the leader.${scheduleComplete ? "" : " ESPN has not published every NBA Cup game yet, so maximums are slightly generous until it does."}`
+    : "Maximum points and elimination status are unavailable until the schedule is saved. Run the ESPN refresh to load it.";
 
   renderTable(document.getElementById("leaderboard-table"), [
     { key: "Rank", label: "#", format: (_, row) => scores.indexOf(row) + 1 },
     { key: "Player", label: "Player", format: value => playerLabel(value) },
     { key: "Points", label: "Points" },
-    { key: "PointsBack", label: "Back" }
+    { key: "PointsBack", label: "Back" },
+    { key: "StartingMax", label: "Starting max", format: value => value == null ? "—" : value },
+    { key: "MaxPossible", label: "Still possible max", format: value => value == null ? "—" : value },
+    { key: "PointsRemaining", label: "Still available", format: value => value == null ? "—" : value },
+    { key: "Status", label: "Status" }
   ], scores);
 
   const playerOfWeek = data.playerOfWeek || {};
