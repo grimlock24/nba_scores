@@ -1,6 +1,6 @@
 {
   "title": "NBA Draft League 2026-2027",
-  "updated": "October 25, 2026 at 11:35 PM",
+  "updated": "October 25, 2026 at 11:46 PM",
   "currentWeek": "week_1",
   "playerOfWeek": {
     "week": "week_1",
@@ -352,7 +352,7 @@
     {
       "Round": 1,
       "Pick": 2,
-      "Player": "Alex",
+      "Player": "Alexander",
       "Selection": "Wins",
       "Team": "Oklahoma City Thunder"
     },
@@ -415,7 +415,7 @@
     {
       "Round": 2,
       "Pick": 11,
-      "Player": "Alex",
+      "Player": "Alexander",
       "Selection": "Losses",
       "Team": "Memphis Grizzlies"
     },
@@ -436,7 +436,7 @@
     {
       "Round": 3,
       "Pick": 14,
-      "Player": "Alex",
+      "Player": "Alexander",
       "Selection": "Wins",
       "Team": "Denver Nuggets"
     },
@@ -499,7 +499,7 @@
     {
       "Round": 4,
       "Pick": 23,
-      "Player": "Alex",
+      "Player": "Alexander",
       "Selection": "Losses",
       "Team": "Dallas Mavericks"
     },
@@ -520,7 +520,7 @@
     {
       "Round": 5,
       "Pick": 26,
-      "Player": "Alex",
+      "Player": "Alexander",
       "Selection": "Losses",
       "Team": "Charlotte Hornets"
     },
@@ -675,7 +675,7 @@
       "Points": 0
     },
     {
-      "Player": "Alex",
+      "Player": "Alexander",
       "Round": 1,
       "Pick": 2,
       "Team": "Oklahoma City Thunder",
@@ -683,7 +683,7 @@
       "Points": 2
     },
     {
-      "Player": "Alex",
+      "Player": "Alexander",
       "Round": 2,
       "Pick": 11,
       "Team": "Memphis Grizzlies",
@@ -691,7 +691,7 @@
       "Points": 0
     },
     {
-      "Player": "Alex",
+      "Player": "Alexander",
       "Round": 3,
       "Pick": 14,
       "Team": "Denver Nuggets",
@@ -699,7 +699,7 @@
       "Points": 1
     },
     {
-      "Player": "Alex",
+      "Player": "Alexander",
       "Round": 4,
       "Pick": 23,
       "Team": "Dallas Mavericks",
@@ -707,7 +707,7 @@
       "Points": 2
     },
     {
-      "Player": "Alex",
+      "Player": "Alexander",
       "Round": 5,
       "Pick": 26,
       "Team": "Charlotte Hornets",
@@ -812,7 +812,7 @@
       "PointsBack": 3
     },
     {
-      "Player": "Alex",
+      "Player": "Alexander",
       "Points": 6,
       "PointsBack": 4
     },
@@ -830,7 +830,7 @@
   "weeklyScores": {
     "week_1": {
       "Trace": 6,
-      "Alex": 6,
+      "Alexander": 6,
       "Ryan": 9,
       "Christian": 7,
       "Billy": 10,
@@ -840,7 +840,7 @@
   "historical": [
     {
       "Season": "2022-2023",
-      "Player": "Alex",
+      "Player": "Alexander",
       "Points": 245,
       "Champion": true
     },
@@ -894,7 +894,7 @@
     },
     {
       "Season": "2023-2024",
-      "Player": "Alex",
+      "Player": "Alexander",
       "Points": 244,
       "Champion": false
     },
@@ -918,7 +918,7 @@
     },
     {
       "Season": "2024-2025",
-      "Player": "Alex",
+      "Player": "Alexander",
       "Points": 249,
       "Champion": false
     },
@@ -960,7 +960,7 @@
     },
     {
       "Season": "2025-2026",
-      "Player": "Alex",
+      "Player": "Alexander",
       "Points": 250,
       "Champion": false
     },
@@ -984,7 +984,7 @@
     }
   ],
   "priorChampions": [
-    "Alex",
+    "Alexander",
     "Christian",
     "Ryan",
     "Trace"
@@ -992,11 +992,11 @@
   "historicalSeasons": [
     {
       "Season": "2022-2023",
-      "Champion": "Alex",
+      "Champion": "Alexander",
       "Points": 245,
       "Standings": [
         {
-          "Player": "Alex",
+          "Player": "Alexander",
           "Points": 245
         },
         {
@@ -1039,7 +1039,7 @@
           "Points": 266
         },
         {
-          "Player": "Alex",
+          "Player": "Alexander",
           "Points": 244
         },
         {
@@ -1062,7 +1062,7 @@
           "Points": 273
         },
         {
-          "Player": "Alex",
+          "Player": "Alexander",
           "Points": 249
         },
         {
@@ -1097,7 +1097,7 @@
           "Points": 266
         },
         {
-          "Player": "Alex",
+          "Player": "Alexander",
           "Points": 250
         },
         {
