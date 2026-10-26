@@ -106,18 +106,27 @@ function render(data) {
   const players = [...new Set(scores.map(row => row.Player))];
   const cumulative = {};
   players.forEach(player => { cumulative[player] = 0; });
-  const datasets = players.map(player => {
+  // Same per-player colors as the NFL dashboard.
+  const playerColors = {
+    alexander: "#c7f000", ryan: "#e53935", billy: "hsl(57 60% 45%)",
+    stup: "hsl(171 60% 45%)", trace: "hsl(228 60% 45%)", christian: "hsl(285 60% 45%)"
+  };
+  const datasets = players.map((player, index) => {
     const values = weeks.map(week => {
       cumulative[player] += weeklyScores[week][player] || 0;
       return cumulative[player];
     });
-    return { label: player, data: values, tension: 0.25, fill: false };
+    return {
+      label: isChampion(player) ? `${player} ★` : player,
+      data: values, borderWidth: 2, tension: 0.25, fill: false, pointRadius: 2,
+      borderColor: playerColors[player.toLowerCase()] || `hsl(${(index * 57) % 360} 60% 45%)`
+    };
   });
   if (scoreChart) scoreChart.destroy();
   scoreChart = new Chart(document.getElementById("score-chart"), {
     type: "line",
     data: { labels: weeks.map(week => week.replace("week_", "Week ")), datasets },
-    options: { responsive: true, scales: { y: { beginAtZero: true } } }
+    options: { responsive: true, plugins: { legend: { position: "bottom" } }, scales: { y: { beginAtZero: true } } }
   });
 }
 
