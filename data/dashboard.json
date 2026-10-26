@@ -1,11 +1,13 @@
 {
   "title": "NBA Draft League 2026-2027",
-  "updated": "October 25, 2026 at 11:02 PM",
+  "updated": "October 25, 2026 at 11:16 PM",
   "currentWeek": "week_1",
   "playerOfWeek": {
     "week": "week_1",
-    "players": [],
-    "points": 0
+    "players": [
+      "Billy"
+    ],
+    "points": 10
   },
   "standings": [
     {
@@ -339,11 +341,501 @@
       "STRK": "2L"
     }
   ],
-  "draft": [],
-  "pickScores": [],
-  "playerScores": [],
+  "draft": [
+    {
+      "Round": 1,
+      "Pick": 1,
+      "Player": "Trace",
+      "Selection": "Losses",
+      "Team": "Sacramento Kings"
+    },
+    {
+      "Round": 1,
+      "Pick": 2,
+      "Player": "Alex",
+      "Selection": "Wins",
+      "Team": "Oklahoma City Thunder"
+    },
+    {
+      "Round": 1,
+      "Pick": 3,
+      "Player": "Ryan",
+      "Selection": "Wins",
+      "Team": "San Antonio Spurs"
+    },
+    {
+      "Round": 1,
+      "Pick": 4,
+      "Player": "Christian",
+      "Selection": "Losses",
+      "Team": "Brooklyn Nets"
+    },
+    {
+      "Round": 1,
+      "Pick": 5,
+      "Player": "Billy",
+      "Selection": "Losses",
+      "Team": "Milwaukee Bucks"
+    },
+    {
+      "Round": 1,
+      "Pick": 6,
+      "Player": "Stup",
+      "Selection": "Wins",
+      "Team": "New York Knicks"
+    },
+    {
+      "Round": 2,
+      "Pick": 7,
+      "Player": "Stup",
+      "Selection": "Wins",
+      "Team": "Boston Celtics"
+    },
+    {
+      "Round": 2,
+      "Pick": 8,
+      "Player": "Billy",
+      "Selection": "Wins",
+      "Team": "Detroit Pistons"
+    },
+    {
+      "Round": 2,
+      "Pick": 9,
+      "Player": "Christian",
+      "Selection": "Losses",
+      "Team": "Chicago Bulls"
+    },
+    {
+      "Round": 2,
+      "Pick": 10,
+      "Player": "Ryan",
+      "Selection": "Losses",
+      "Team": "New Orleans Pelicans"
+    },
+    {
+      "Round": 2,
+      "Pick": 11,
+      "Player": "Alex",
+      "Selection": "Losses",
+      "Team": "Memphis Grizzlies"
+    },
+    {
+      "Round": 2,
+      "Pick": 12,
+      "Player": "Trace",
+      "Selection": "Losses",
+      "Team": "LA Clippers"
+    },
+    {
+      "Round": 3,
+      "Pick": 13,
+      "Player": "Trace",
+      "Selection": "Losses",
+      "Team": "Washington Wizards"
+    },
+    {
+      "Round": 3,
+      "Pick": 14,
+      "Player": "Alex",
+      "Selection": "Wins",
+      "Team": "Denver Nuggets"
+    },
+    {
+      "Round": 3,
+      "Pick": 15,
+      "Player": "Ryan",
+      "Selection": "Wins",
+      "Team": "Philadelphia 76ers"
+    },
+    {
+      "Round": 3,
+      "Pick": 16,
+      "Player": "Christian",
+      "Selection": "Wins",
+      "Team": "Minnesota Timberwolves"
+    },
+    {
+      "Round": 3,
+      "Pick": 17,
+      "Player": "Billy",
+      "Selection": "Wins",
+      "Team": "Cleveland Cavaliers"
+    },
+    {
+      "Round": 3,
+      "Pick": 18,
+      "Player": "Stup",
+      "Selection": "Wins",
+      "Team": "Houston Rockets"
+    },
+    {
+      "Round": 4,
+      "Pick": 19,
+      "Player": "Stup",
+      "Selection": "Wins",
+      "Team": "Miami Heat"
+    },
+    {
+      "Round": 4,
+      "Pick": 20,
+      "Player": "Billy",
+      "Selection": "Wins",
+      "Team": "Toronto Raptors"
+    },
+    {
+      "Round": 4,
+      "Pick": 21,
+      "Player": "Christian",
+      "Selection": "Losses",
+      "Team": "Utah Jazz"
+    },
+    {
+      "Round": 4,
+      "Pick": 22,
+      "Player": "Ryan",
+      "Selection": "Wins",
+      "Team": "Indiana Pacers"
+    },
+    {
+      "Round": 4,
+      "Pick": 23,
+      "Player": "Alex",
+      "Selection": "Losses",
+      "Team": "Dallas Mavericks"
+    },
+    {
+      "Round": 4,
+      "Pick": 24,
+      "Player": "Trace",
+      "Selection": "Wins",
+      "Team": "Los Angeles Lakers"
+    },
+    {
+      "Round": 5,
+      "Pick": 25,
+      "Player": "Trace",
+      "Selection": "Wins",
+      "Team": "Golden State Warriors"
+    },
+    {
+      "Round": 5,
+      "Pick": 26,
+      "Player": "Alex",
+      "Selection": "Losses",
+      "Team": "Charlotte Hornets"
+    },
+    {
+      "Round": 5,
+      "Pick": 27,
+      "Player": "Ryan",
+      "Selection": "Losses",
+      "Team": "Phoenix Suns"
+    },
+    {
+      "Round": 5,
+      "Pick": 28,
+      "Player": "Christian",
+      "Selection": "Wins",
+      "Team": "Orlando Magic"
+    },
+    {
+      "Round": 5,
+      "Pick": 29,
+      "Player": "Billy",
+      "Selection": "Wins",
+      "Team": "Atlanta Hawks"
+    },
+    {
+      "Round": 5,
+      "Pick": 30,
+      "Player": "Stup",
+      "Selection": "Wins",
+      "Team": "Portland Trail Blazers"
+    }
+  ],
+  "pickScores": [
+    {
+      "Player": "Billy",
+      "Round": 1,
+      "Pick": 5,
+      "Team": "Milwaukee Bucks",
+      "Selection": "Losses",
+      "Points": 3
+    },
+    {
+      "Player": "Billy",
+      "Round": 2,
+      "Pick": 8,
+      "Team": "Detroit Pistons",
+      "Selection": "Wins",
+      "Points": 2
+    },
+    {
+      "Player": "Billy",
+      "Round": 3,
+      "Pick": 17,
+      "Team": "Cleveland Cavaliers",
+      "Selection": "Wins",
+      "Points": 1
+    },
+    {
+      "Player": "Billy",
+      "Round": 4,
+      "Pick": 20,
+      "Team": "Toronto Raptors",
+      "Selection": "Wins",
+      "Points": 2
+    },
+    {
+      "Player": "Billy",
+      "Round": 5,
+      "Pick": 29,
+      "Team": "Atlanta Hawks",
+      "Selection": "Wins",
+      "Points": 2
+    },
+    {
+      "Player": "Ryan",
+      "Round": 1,
+      "Pick": 3,
+      "Team": "San Antonio Spurs",
+      "Selection": "Wins",
+      "Points": 1
+    },
+    {
+      "Player": "Ryan",
+      "Round": 2,
+      "Pick": 10,
+      "Team": "New Orleans Pelicans",
+      "Selection": "Losses",
+      "Points": 3
+    },
+    {
+      "Player": "Ryan",
+      "Round": 3,
+      "Pick": 15,
+      "Team": "Philadelphia 76ers",
+      "Selection": "Wins",
+      "Points": 3
+    },
+    {
+      "Player": "Ryan",
+      "Round": 4,
+      "Pick": 22,
+      "Team": "Indiana Pacers",
+      "Selection": "Wins",
+      "Points": 1
+    },
+    {
+      "Player": "Ryan",
+      "Round": 5,
+      "Pick": 27,
+      "Team": "Phoenix Suns",
+      "Selection": "Losses",
+      "Points": 1
+    },
+    {
+      "Player": "Christian",
+      "Round": 1,
+      "Pick": 4,
+      "Team": "Brooklyn Nets",
+      "Selection": "Losses",
+      "Points": 2
+    },
+    {
+      "Player": "Christian",
+      "Round": 2,
+      "Pick": 9,
+      "Team": "Chicago Bulls",
+      "Selection": "Losses",
+      "Points": 2
+    },
+    {
+      "Player": "Christian",
+      "Round": 3,
+      "Pick": 16,
+      "Team": "Minnesota Timberwolves",
+      "Selection": "Wins",
+      "Points": 2
+    },
+    {
+      "Player": "Christian",
+      "Round": 4,
+      "Pick": 21,
+      "Team": "Utah Jazz",
+      "Selection": "Losses",
+      "Points": 1
+    },
+    {
+      "Player": "Christian",
+      "Round": 5,
+      "Pick": 28,
+      "Team": "Orlando Magic",
+      "Selection": "Wins",
+      "Points": 0
+    },
+    {
+      "Player": "Alex",
+      "Round": 1,
+      "Pick": 2,
+      "Team": "Oklahoma City Thunder",
+      "Selection": "Wins",
+      "Points": 2
+    },
+    {
+      "Player": "Alex",
+      "Round": 2,
+      "Pick": 11,
+      "Team": "Memphis Grizzlies",
+      "Selection": "Losses",
+      "Points": 0
+    },
+    {
+      "Player": "Alex",
+      "Round": 3,
+      "Pick": 14,
+      "Team": "Denver Nuggets",
+      "Selection": "Wins",
+      "Points": 1
+    },
+    {
+      "Player": "Alex",
+      "Round": 4,
+      "Pick": 23,
+      "Team": "Dallas Mavericks",
+      "Selection": "Losses",
+      "Points": 2
+    },
+    {
+      "Player": "Alex",
+      "Round": 5,
+      "Pick": 26,
+      "Team": "Charlotte Hornets",
+      "Selection": "Losses",
+      "Points": 1
+    },
+    {
+      "Player": "Stup",
+      "Round": 1,
+      "Pick": 6,
+      "Team": "New York Knicks",
+      "Selection": "Wins",
+      "Points": 0
+    },
+    {
+      "Player": "Stup",
+      "Round": 2,
+      "Pick": 7,
+      "Team": "Boston Celtics",
+      "Selection": "Wins",
+      "Points": 1
+    },
+    {
+      "Player": "Stup",
+      "Round": 3,
+      "Pick": 18,
+      "Team": "Houston Rockets",
+      "Selection": "Wins",
+      "Points": 3
+    },
+    {
+      "Player": "Stup",
+      "Round": 4,
+      "Pick": 19,
+      "Team": "Miami Heat",
+      "Selection": "Wins",
+      "Points": 0
+    },
+    {
+      "Player": "Stup",
+      "Round": 5,
+      "Pick": 30,
+      "Team": "Portland Trail Blazers",
+      "Selection": "Wins",
+      "Points": 2
+    },
+    {
+      "Player": "Trace",
+      "Round": 1,
+      "Pick": 1,
+      "Team": "Sacramento Kings",
+      "Selection": "Losses",
+      "Points": 2
+    },
+    {
+      "Player": "Trace",
+      "Round": 2,
+      "Pick": 12,
+      "Team": "LA Clippers",
+      "Selection": "Losses",
+      "Points": 1
+    },
+    {
+      "Player": "Trace",
+      "Round": 3,
+      "Pick": 13,
+      "Team": "Washington Wizards",
+      "Selection": "Losses",
+      "Points": 1
+    },
+    {
+      "Player": "Trace",
+      "Round": 4,
+      "Pick": 24,
+      "Team": "Los Angeles Lakers",
+      "Selection": "Wins",
+      "Points": 2
+    },
+    {
+      "Player": "Trace",
+      "Round": 5,
+      "Pick": 25,
+      "Team": "Golden State Warriors",
+      "Selection": "Wins",
+      "Points": 0
+    }
+  ],
+  "playerScores": [
+    {
+      "Player": "Billy",
+      "Points": 10,
+      "PointsBack": 0
+    },
+    {
+      "Player": "Ryan",
+      "Points": 9,
+      "PointsBack": 1
+    },
+    {
+      "Player": "Christian",
+      "Points": 7,
+      "PointsBack": 3
+    },
+    {
+      "Player": "Alex",
+      "Points": 6,
+      "PointsBack": 4
+    },
+    {
+      "Player": "Stup",
+      "Points": 6,
+      "PointsBack": 4
+    },
+    {
+      "Player": "Trace",
+      "Points": 6,
+      "PointsBack": 4
+    }
+  ],
   "weeklyScores": {
-    "week_1": {}
+    "week_1": {
+      "Trace": 6,
+      "Alex": 6,
+      "Ryan": 9,
+      "Christian": 7,
+      "Billy": 10,
+      "Stup": 6
+    }
   },
   "historical": [
     {
