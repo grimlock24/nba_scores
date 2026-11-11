@@ -33,6 +33,15 @@
     <section id="player-of-week" class="card player-of-week"></section>
 
     <section class="card">
+      <div class="section-heading">
+        <div><p class="eyebrow">WEEKLY RESULTS</p><h2>Player records by week</h2></div>
+        <select id="week-filter" class="filter" aria-label="Select week"></select>
+      </div>
+      <p id="weekly-record-note" class="odds-note"></p>
+      <div class="table-wrap"><table id="weekly-record-table"></table></div>
+    </section>
+
+    <section class="card">
       <div class="section-heading"><h2>Weekly scores</h2></div>
       <canvas id="score-chart" aria-label="Cumulative player scores"></canvas>
     </section>

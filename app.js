@@ -35,6 +35,7 @@ function render(data) {
     { key: "Player", label: "Player", format: value => playerLabel(value) },
     { key: "Points", label: "Points" },
     { key: "PointsBack", label: "Back" },
+    { key: "WeeksWon", label: "Weeks won", format: value => value == null ? "—" : value },
     { key: "StartingMax", label: "Starting max", format: value => value == null ? "—" : value },
     { key: "MaxPossible", label: "Still possible max", format: value => value == null ? "—" : value },
     { key: "PointsRemaining", label: "Still available", format: value => value == null ? "—" : value },
@@ -49,6 +50,37 @@ function render(data) {
       <strong>${playersOfWeek.length ? playersOfWeek.map(playerLabel).join(" & ") : "No completed games yet"}</strong>
       ${playersOfWeek.length ? `<span>${playerOfWeek.points} points in ${playerOfWeek.week}</span>` : ""}
     </div>`;
+
+  const weeklyRecords = data.weeklyRecords || {};
+  const recordWeeks = Object.keys(weeklyRecords)
+    .sort((a, b) => Number(a.split("_")[1]) - Number(b.split("_")[1]));
+  const weekFilter = document.getElementById("week-filter");
+  weekFilter.innerHTML = recordWeeks.map(week => {
+    const record = weeklyRecords[week];
+    return `<option value="${week}">${week.replace("week_", "Week ")} (${record.start} – ${record.end})</option>`;
+  }).join("");
+  weekFilter.disabled = recordWeeks.length === 0;
+  const completedWeeks = recordWeeks.filter(week => weeklyRecords[week].complete);
+  weekFilter.value = completedWeeks[completedWeeks.length - 1] || recordWeeks[recordWeeks.length - 1] || "";
+  const renderWeeklyRecords = () => {
+    const week = weeklyRecords[weekFilter.value];
+    const note = document.getElementById("weekly-record-note");
+    if (!week) {
+      note.textContent = "No weekly records are available yet.";
+    } else if (week.complete) {
+      note.textContent = `Completed week. Winner${week.winners.length === 1 ? "" : "s"}: ${week.winners.join(", ") || "none"}. Correct–incorrect counts each drafted team's game; tied winners each receive a week won.`;
+    } else {
+      note.textContent = "Provisional: this week is ongoing or its scheduled games have not all been recorded. No weekly win is awarded yet.";
+    }
+    renderTable(document.getElementById("weekly-record-table"), [
+      { key: "Player", label: "Player", format: value => playerLabel(value) },
+      { key: "Correct", label: "Correct" },
+      { key: "Incorrect", label: "Incorrect" },
+      { key: "Correct", label: "Record", format: (value, row) => `${value}–${row.Incorrect}` }
+    ], week ? week.records : []);
+  };
+  weekFilter.onchange = renderWeeklyRecords;
+  renderWeeklyRecords();
 
   const standings = [...(data.standings || [])].sort((a, b) => {
     const divisionDifference = divisionOrder.indexOf(a.Division) - divisionOrder.indexOf(b.Division);
