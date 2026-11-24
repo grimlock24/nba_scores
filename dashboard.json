@@ -1,222 +1,244 @@
 {
   "title": "NBA Draft League 2026-2027",
-  "updated": "November 18, 2026 at 10:27 PM",
+  "updated": "November 23, 2026 at 11:56 PM",
   "currentWeek": "week_5",
   "playerOfWeek": {
     "week": "week_5",
     "players": [
       "Christian"
     ],
-    "points": 5
+    "points": 13
   },
   "standings": [
     {
       "Team": "Los Angeles Lakers",
       "Conference": "Western",
       "Division": "Pacific",
-      "W": 13,
-      "L": 2,
-      "PCT": 0.8666666666666667,
-      "PF": 1837,
-      "PA": 1722,
-      "STRK": "9W"
+      "W": 14,
+      "L": 3,
+      "PCT": 0.8235294117647058,
+      "PF": 2040,
+      "PA": 1935,
+      "STRK": "1W"
     },
     {
       "Team": "Philadelphia 76ers",
       "Conference": "Eastern",
       "Division": "Atlantic",
-      "W": 12,
+      "W": 14,
       "L": 3,
-      "PCT": 0.8,
-      "PF": 1711,
-      "PA": 1669,
-      "STRK": "3W"
+      "PCT": 0.8235294117647058,
+      "PF": 1964,
+      "PA": 1914,
+      "STRK": "5W"
     },
     {
       "Team": "San Antonio Spurs",
       "Conference": "Western",
       "Division": "Southwest",
-      "W": 12,
+      "W": 14,
       "L": 3,
-      "PCT": 0.8,
-      "PF": 1756,
-      "PA": 1588,
-      "STRK": "1L"
-    },
-    {
-      "Team": "Boston Celtics",
-      "Conference": "Eastern",
-      "Division": "Atlantic",
-      "W": 11,
-      "L": 3,
-      "PCT": 0.7857142857142857,
-      "PF": 1607,
-      "PA": 1446,
-      "STRK": "1L"
+      "PCT": 0.8235294117647058,
+      "PF": 1994,
+      "PA": 1791,
+      "STRK": "2W"
     },
     {
       "Team": "Houston Rockets",
       "Conference": "Western",
       "Division": "Southwest",
-      "W": 11,
-      "L": 4,
-      "PCT": 0.7333333333333333,
-      "PF": 1767,
-      "PA": 1643,
+      "W": 12,
+      "L": 5,
+      "PCT": 0.7058823529411765,
+      "PF": 2010,
+      "PA": 1880,
+      "STRK": "1L"
+    },
+    {
+      "Team": "Memphis Grizzlies",
+      "Conference": "Western",
+      "Division": "Southwest",
+      "W": 12,
+      "L": 5,
+      "PCT": 0.7058823529411765,
+      "PF": 2049,
+      "PA": 1895,
       "STRK": "1L"
     },
     {
       "Team": "Minnesota Timberwolves",
       "Conference": "Western",
       "Division": "Northwest",
-      "W": 11,
-      "L": 4,
-      "PCT": 0.7333333333333333,
-      "PF": 1750,
-      "PA": 1591,
-      "STRK": "2W"
-    },
-    {
-      "Team": "Memphis Grizzlies",
-      "Conference": "Western",
-      "Division": "Southwest",
-      "W": 10,
-      "L": 4,
-      "PCT": 0.7142857142857143,
-      "PF": 1704,
-      "PA": 1572,
-      "STRK": "3W"
-    },
-    {
-      "Team": "Detroit Pistons",
-      "Conference": "Eastern",
-      "Division": "Central",
-      "W": 9,
-      "L": 4,
-      "PCT": 0.6923076923076923,
-      "PF": 1493,
-      "PA": 1416,
-      "STRK": "1W"
-    },
-    {
-      "Team": "Oklahoma City Thunder",
-      "Conference": "Western",
-      "Division": "Northwest",
-      "W": 9,
+      "W": 12,
       "L": 5,
-      "PCT": 0.6428571428571429,
-      "PF": 1570,
-      "PA": 1499,
+      "PCT": 0.7058823529411765,
+      "PF": 1953,
+      "PA": 1788,
       "STRK": "1W"
-    },
-    {
-      "Team": "Portland Trail Blazers",
-      "Conference": "Western",
-      "Division": "Northwest",
-      "W": 9,
-      "L": 5,
-      "PCT": 0.6428571428571429,
-      "PF": 1638,
-      "PA": 1554,
-      "STRK": "2L"
     },
     {
       "Team": "Denver Nuggets",
       "Conference": "Western",
       "Division": "Northwest",
-      "W": 7,
+      "W": 10,
       "L": 5,
-      "PCT": 0.5833333333333334,
-      "PF": 1366,
-      "PA": 1358,
-      "STRK": "1L"
+      "PCT": 0.6666666666666666,
+      "PF": 1755,
+      "PA": 1728,
+      "STRK": "3W"
     },
     {
       "Team": "Atlanta Hawks",
       "Conference": "Eastern",
       "Division": "Southeast",
-      "W": 8,
+      "W": 11,
       "L": 6,
-      "PCT": 0.5714285714285714,
-      "PF": 1649,
-      "PA": 1625,
+      "PCT": 0.6470588235294118,
+      "PF": 1984,
+      "PA": 1931,
+      "STRK": "4W"
+    },
+    {
+      "Team": "Boston Celtics",
+      "Conference": "Eastern",
+      "Division": "Atlantic",
+      "W": 11,
+      "L": 6,
+      "PCT": 0.6470588235294118,
+      "PF": 1891,
+      "PA": 1736,
+      "STRK": "4L"
+    },
+    {
+      "Team": "New York Knicks",
+      "Conference": "Eastern",
+      "Division": "Atlantic",
+      "W": 11,
+      "L": 6,
+      "PCT": 0.6470588235294118,
+      "PF": 1852,
+      "PA": 1755,
+      "STRK": "5W"
+    },
+    {
+      "Team": "Detroit Pistons",
+      "Conference": "Eastern",
+      "Division": "Central",
+      "W": 10,
+      "L": 6,
+      "PCT": 0.625,
+      "PF": 1814,
+      "PA": 1737,
+      "STRK": "2L"
+    },
+    {
+      "Team": "Miami Heat",
+      "Conference": "Eastern",
+      "Division": "Southeast",
+      "W": 10,
+      "L": 6,
+      "PCT": 0.625,
+      "PF": 1931,
+      "PA": 1911,
+      "STRK": "7W"
+    },
+    {
+      "Team": "Portland Trail Blazers",
+      "Conference": "Western",
+      "Division": "Northwest",
+      "W": 10,
+      "L": 6,
+      "PCT": 0.625,
+      "PF": 1858,
+      "PA": 1765,
+      "STRK": "1L"
+    },
+    {
+      "Team": "Dallas Mavericks",
+      "Conference": "Western",
+      "Division": "Southwest",
+      "W": 10,
+      "L": 7,
+      "PCT": 0.5882352941176471,
+      "PF": 1911,
+      "PA": 1912,
+      "STRK": "3W"
+    },
+    {
+      "Team": "Oklahoma City Thunder",
+      "Conference": "Western",
+      "Division": "Northwest",
+      "W": 10,
+      "L": 7,
+      "PCT": 0.5882352941176471,
+      "PF": 1921,
+      "PA": 1859,
+      "STRK": "1L"
+    },
+    {
+      "Team": "Phoenix Suns",
+      "Conference": "Western",
+      "Division": "Pacific",
+      "W": 8,
+      "L": 7,
+      "PCT": 0.5333333333333333,
+      "PF": 1708,
+      "PA": 1721,
+      "STRK": "3W"
+    },
+    {
+      "Team": "Cleveland Cavaliers",
+      "Conference": "Eastern",
+      "Division": "Central",
+      "W": 9,
+      "L": 8,
+      "PCT": 0.5294117647058824,
+      "PF": 2020,
+      "PA": 1980,
       "STRK": "1W"
     },
     {
       "Team": "Golden State Warriors",
       "Conference": "Western",
       "Division": "Pacific",
-      "W": 8,
-      "L": 6,
-      "PCT": 0.5714285714285714,
-      "PF": 1611,
-      "PA": 1576,
-      "STRK": "3L"
-    },
-    {
-      "Team": "Miami Heat",
-      "Conference": "Eastern",
-      "Division": "Southeast",
-      "W": 8,
-      "L": 6,
-      "PCT": 0.5714285714285714,
-      "PF": 1671,
-      "PA": 1668,
-      "STRK": "5W"
-    },
-    {
-      "Team": "New York Knicks",
-      "Conference": "Eastern",
-      "Division": "Atlantic",
-      "W": 8,
-      "L": 6,
-      "PCT": 0.5714285714285714,
-      "PF": 1540,
-      "PA": 1454,
-      "STRK": "2W"
-    },
-    {
-      "Team": "Cleveland Cavaliers",
-      "Conference": "Eastern",
-      "Division": "Central",
-      "W": 8,
-      "L": 7,
-      "PCT": 0.5333333333333333,
-      "PF": 1771,
-      "PA": 1737,
-      "STRK": "2W"
-    },
-    {
-      "Team": "Dallas Mavericks",
-      "Conference": "Western",
-      "Division": "Southwest",
-      "W": 7,
-      "L": 7,
-      "PCT": 0.5,
-      "PF": 1569,
-      "PA": 1604,
-      "STRK": "3L"
+      "W": 9,
+      "L": 8,
+      "PCT": 0.5294117647058824,
+      "PF": 1891,
+      "PA": 1905,
+      "STRK": "1W"
     },
     {
       "Team": "Orlando Magic",
       "Conference": "Eastern",
       "Division": "Southeast",
-      "W": 6,
-      "L": 7,
-      "PCT": 0.46153846153846156,
-      "PF": 1415,
-      "PA": 1458,
-      "STRK": "4W"
+      "W": 7,
+      "L": 9,
+      "PCT": 0.4375,
+      "PF": 1740,
+      "PA": 1806,
+      "STRK": "1L"
     },
     {
-      "Team": "Phoenix Suns",
-      "Conference": "Western",
-      "Division": "Pacific",
+      "Team": "Washington Wizards",
+      "Conference": "Eastern",
+      "Division": "Southeast",
+      "W": 7,
+      "L": 11,
+      "PCT": 0.3888888888888889,
+      "PF": 1986,
+      "PA": 2077,
+      "STRK": "3W"
+    },
+    {
+      "Team": "Toronto Raptors",
+      "Conference": "Eastern",
+      "Division": "Atlantic",
       "W": 6,
-      "L": 7,
-      "PCT": 0.46153846153846156,
-      "PF": 1469,
-      "PA": 1513,
+      "L": 10,
+      "PCT": 0.375,
+      "PF": 1785,
+      "PA": 1782,
       "STRK": "1W"
     },
     {
@@ -224,121 +246,99 @@
       "Conference": "Eastern",
       "Division": "Central",
       "W": 5,
-      "L": 9,
-      "PCT": 0.35714285714285715,
-      "PF": 1569,
-      "PA": 1603,
-      "STRK": "1L"
-    },
-    {
-      "Team": "Toronto Raptors",
-      "Conference": "Eastern",
-      "Division": "Atlantic",
-      "W": 5,
-      "L": 9,
-      "PCT": 0.35714285714285715,
-      "PF": 1581,
-      "PA": 1577,
-      "STRK": "5L"
+      "L": 12,
+      "PCT": 0.29411764705882354,
+      "PF": 1898,
+      "PA": 1963,
+      "STRK": "4L"
     },
     {
       "Team": "New Orleans Pelicans",
       "Conference": "Western",
       "Division": "Southwest",
       "W": 5,
-      "L": 10,
-      "PCT": 0.3333333333333333,
-      "PF": 1737,
-      "PA": 1843,
-      "STRK": "1W"
-    },
-    {
-      "Team": "LA Clippers",
-      "Conference": "Western",
-      "Division": "Pacific",
-      "W": 4,
-      "L": 9,
-      "PCT": 0.3076923076923077,
-      "PF": 1455,
-      "PA": 1530,
-      "STRK": "1L"
+      "L": 13,
+      "PCT": 0.2777777777777778,
+      "PF": 2057,
+      "PA": 2205,
+      "STRK": "3L"
     },
     {
       "Team": "Charlotte Hornets",
       "Conference": "Eastern",
       "Division": "Southeast",
       "W": 4,
-      "L": 10,
-      "PCT": 0.2857142857142857,
-      "PF": 1402,
-      "PA": 1546,
-      "STRK": "3L"
+      "L": 11,
+      "PCT": 0.26666666666666666,
+      "PF": 1499,
+      "PA": 1657,
+      "STRK": "4L"
     },
     {
-      "Team": "Washington Wizards",
-      "Conference": "Eastern",
-      "Division": "Southeast",
+      "Team": "LA Clippers",
+      "Conference": "Western",
+      "Division": "Pacific",
       "W": 4,
       "L": 11,
       "PCT": 0.26666666666666666,
-      "PF": 1669,
-      "PA": 1788,
-      "STRK": "8L"
+      "PF": 1667,
+      "PA": 1764,
+      "STRK": "3L"
+    },
+    {
+      "Team": "Chicago Bulls",
+      "Conference": "Eastern",
+      "Division": "Central",
+      "W": 4,
+      "L": 12,
+      "PCT": 0.25,
+      "PF": 1866,
+      "PA": 1993,
+      "STRK": "2L"
     },
     {
       "Team": "Brooklyn Nets",
       "Conference": "Eastern",
       "Division": "Atlantic",
       "W": 3,
-      "L": 10,
-      "PCT": 0.23076923076923078,
-      "PF": 1445,
-      "PA": 1532,
-      "STRK": "2L"
-    },
-    {
-      "Team": "Chicago Bulls",
-      "Conference": "Eastern",
-      "Division": "Central",
-      "W": 3,
-      "L": 10,
-      "PCT": 0.23076923076923078,
-      "PF": 1490,
-      "PA": 1637,
-      "STRK": "1L"
+      "L": 12,
+      "PCT": 0.2,
+      "PF": 1663,
+      "PA": 1782,
+      "STRK": "4L"
     },
     {
       "Team": "Utah Jazz",
       "Conference": "Western",
       "Division": "Northwest",
-      "W": 2,
-      "L": 13,
-      "PCT": 0.13333333333333333,
-      "PF": 1631,
-      "PA": 1759,
-      "STRK": "1W"
+      "W": 3,
+      "L": 15,
+      "PCT": 0.16666666666666666,
+      "PF": 1955,
+      "PA": 2083,
+      "STRK": "2L"
     },
     {
       "Team": "Sacramento Kings",
       "Conference": "Western",
       "Division": "Pacific",
-      "W": 1,
-      "L": 12,
-      "PCT": 0.07692307692307693,
-      "PF": 1401,
-      "PA": 1576,
-      "STRK": "6L"
+      "W": 2,
+      "L": 14,
+      "PCT": 0.125,
+      "PF": 1709,
+      "PA": 1906,
+      "STRK": "1W"
     },
     {
       "Team": "Milwaukee Bucks",
       "Conference": "Eastern",
       "Division": "Central",
       "W": 1,
-      "L": 13,
-      "PCT": 0.07142857142857142,
-      "PF": 1486,
-      "PA": 1676,
-      "STRK": "10L"
+      "L": 16,
+      "PCT": 0.058823529411764705,
+      "PF": 1859,
+      "PA": 2069,
+      "STRK": "13L"
     }
   ],
   "draft": [
@@ -560,7 +560,7 @@
       "Pick": 1,
       "Team": "Sacramento Kings",
       "Selection": "Losses",
-      "Points": 12
+      "Points": 14
     },
     {
       "Player": "Trace",
@@ -568,7 +568,7 @@
       "Pick": 12,
       "Team": "LA Clippers",
       "Selection": "Losses",
-      "Points": 9
+      "Points": 11
     },
     {
       "Player": "Trace",
@@ -584,7 +584,7 @@
       "Pick": 24,
       "Team": "Los Angeles Lakers",
       "Selection": "Wins",
-      "Points": 13
+      "Points": 14
     },
     {
       "Player": "Trace",
@@ -592,7 +592,7 @@
       "Pick": 25,
       "Team": "Golden State Warriors",
       "Selection": "Wins",
-      "Points": 8
+      "Points": 9
     },
     {
       "Player": "Christian",
@@ -600,7 +600,7 @@
       "Pick": 4,
       "Team": "Brooklyn Nets",
       "Selection": "Losses",
-      "Points": 10
+      "Points": 12
     },
     {
       "Player": "Christian",
@@ -608,7 +608,7 @@
       "Pick": 9,
       "Team": "Chicago Bulls",
       "Selection": "Losses",
-      "Points": 10
+      "Points": 12
     },
     {
       "Player": "Christian",
@@ -616,7 +616,7 @@
       "Pick": 16,
       "Team": "Minnesota Timberwolves",
       "Selection": "Wins",
-      "Points": 11
+      "Points": 12
     },
     {
       "Player": "Christian",
@@ -624,7 +624,7 @@
       "Pick": 21,
       "Team": "Utah Jazz",
       "Selection": "Losses",
-      "Points": 13
+      "Points": 15
     },
     {
       "Player": "Christian",
@@ -632,7 +632,7 @@
       "Pick": 28,
       "Team": "Orlando Magic",
       "Selection": "Wins",
-      "Points": 6
+      "Points": 7
     },
     {
       "Player": "Stup",
@@ -640,7 +640,7 @@
       "Pick": 6,
       "Team": "New York Knicks",
       "Selection": "Wins",
-      "Points": 8
+      "Points": 11
     },
     {
       "Player": "Stup",
@@ -656,7 +656,7 @@
       "Pick": 18,
       "Team": "Houston Rockets",
       "Selection": "Wins",
-      "Points": 11
+      "Points": 12
     },
     {
       "Player": "Stup",
@@ -664,7 +664,7 @@
       "Pick": 19,
       "Team": "Miami Heat",
       "Selection": "Wins",
-      "Points": 8
+      "Points": 10
     },
     {
       "Player": "Stup",
@@ -672,7 +672,7 @@
       "Pick": 30,
       "Team": "Portland Trail Blazers",
       "Selection": "Wins",
-      "Points": 9
+      "Points": 10
     },
     {
       "Player": "Ryan",
@@ -680,7 +680,7 @@
       "Pick": 3,
       "Team": "San Antonio Spurs",
       "Selection": "Wins",
-      "Points": 12
+      "Points": 14
     },
     {
       "Player": "Ryan",
@@ -688,7 +688,7 @@
       "Pick": 10,
       "Team": "New Orleans Pelicans",
       "Selection": "Losses",
-      "Points": 10
+      "Points": 13
     },
     {
       "Player": "Ryan",
@@ -696,7 +696,7 @@
       "Pick": 15,
       "Team": "Philadelphia 76ers",
       "Selection": "Wins",
-      "Points": 12
+      "Points": 14
     },
     {
       "Player": "Ryan",
@@ -720,7 +720,7 @@
       "Pick": 5,
       "Team": "Milwaukee Bucks",
       "Selection": "Losses",
-      "Points": 13
+      "Points": 16
     },
     {
       "Player": "Billy",
@@ -728,7 +728,7 @@
       "Pick": 8,
       "Team": "Detroit Pistons",
       "Selection": "Wins",
-      "Points": 9
+      "Points": 10
     },
     {
       "Player": "Billy",
@@ -736,7 +736,7 @@
       "Pick": 17,
       "Team": "Cleveland Cavaliers",
       "Selection": "Wins",
-      "Points": 8
+      "Points": 9
     },
     {
       "Player": "Billy",
@@ -744,7 +744,7 @@
       "Pick": 20,
       "Team": "Toronto Raptors",
       "Selection": "Wins",
-      "Points": 5
+      "Points": 6
     },
     {
       "Player": "Billy",
@@ -752,7 +752,7 @@
       "Pick": 29,
       "Team": "Atlanta Hawks",
       "Selection": "Wins",
-      "Points": 8
+      "Points": 11
     },
     {
       "Player": "Alexander",
@@ -760,7 +760,7 @@
       "Pick": 2,
       "Team": "Oklahoma City Thunder",
       "Selection": "Wins",
-      "Points": 9
+      "Points": 10
     },
     {
       "Player": "Alexander",
@@ -768,7 +768,7 @@
       "Pick": 11,
       "Team": "Memphis Grizzlies",
       "Selection": "Losses",
-      "Points": 4
+      "Points": 5
     },
     {
       "Player": "Alexander",
@@ -776,7 +776,7 @@
       "Pick": 14,
       "Team": "Denver Nuggets",
       "Selection": "Wins",
-      "Points": 7
+      "Points": 10
     },
     {
       "Player": "Alexander",
@@ -792,68 +792,68 @@
       "Pick": 26,
       "Team": "Charlotte Hornets",
       "Selection": "Losses",
-      "Points": 10
+      "Points": 11
     }
   ],
   "playerScores": [
     {
       "Player": "Trace",
-      "Points": 53,
+      "Points": 59,
       "PointsBack": 0,
       "WeeksWon": 2,
       "StartingMax": 398,
-      "MaxPossible": 384,
-      "PointsRemaining": 331,
+      "MaxPossible": 377,
+      "PointsRemaining": 318,
       "Status": "In contention"
     },
     {
       "Player": "Christian",
-      "Points": 50,
-      "PointsBack": 3,
-      "WeeksWon": 1,
+      "Points": 58,
+      "PointsBack": 1,
+      "WeeksWon": 2,
       "StartingMax": 401,
-      "MaxPossible": 383,
-      "PointsRemaining": 333,
+      "MaxPossible": 379,
+      "PointsRemaining": 321,
       "Status": "In contention"
     },
     {
       "Player": "Stup",
-      "Points": 47,
-      "PointsBack": 6,
+      "Points": 54,
+      "PointsBack": 5,
       "WeeksWon": 1,
       "StartingMax": 385,
-      "MaxPossible": 364,
-      "PointsRemaining": 317,
+      "MaxPossible": 360,
+      "PointsRemaining": 306,
       "Status": "In contention"
     },
     {
       "Player": "Ryan",
-      "Points": 46,
-      "PointsBack": 7,
+      "Points": 53,
+      "PointsBack": 6,
       "WeeksWon": 0,
       "StartingMax": 399,
-      "MaxPossible": 375,
-      "PointsRemaining": 329,
+      "MaxPossible": 370,
+      "PointsRemaining": 317,
       "Status": "In contention"
     },
     {
       "Player": "Billy",
-      "Points": 43,
-      "PointsBack": 10,
+      "Points": 52,
+      "PointsBack": 7,
       "WeeksWon": 1,
       "StartingMax": 388,
-      "MaxPossible": 362,
-      "PointsRemaining": 319,
+      "MaxPossible": 360,
+      "PointsRemaining": 308,
       "Status": "In contention"
     },
     {
       "Player": "Alexander",
-      "Points": 37,
+      "Points": 43,
       "PointsBack": 16,
       "WeeksWon": 0,
       "StartingMax": 398,
-      "MaxPossible": 368,
-      "PointsRemaining": 331,
+      "MaxPossible": 361,
+      "PointsRemaining": 318,
       "Status": "In contention"
     }
   ],
@@ -891,12 +891,12 @@
       "Stup": 15
     },
     "week_5": {
-      "Trace": 3,
-      "Alexander": 1,
-      "Ryan": 1,
-      "Christian": 5,
-      "Billy": 2,
-      "Stup": 2
+      "Trace": 9,
+      "Alexander": 7,
+      "Ryan": 8,
+      "Christian": 13,
+      "Billy": 11,
+      "Stup": 9
     }
   },
   "weeklyRecords": {
@@ -1064,38 +1064,40 @@
     "week_5": {
       "start": "2026-11-17",
       "end": "2026-11-23",
-      "complete": false,
-      "winners": [],
+      "complete": true,
+      "winners": [
+        "Christian"
+      ],
       "records": [
         {
           "Player": "Christian",
-          "Correct": 5,
-          "Incorrect": 1
-        },
-        {
-          "Player": "Trace",
-          "Correct": 3,
-          "Incorrect": 1
+          "Correct": 13,
+          "Incorrect": 6
         },
         {
           "Player": "Billy",
-          "Correct": 2,
-          "Incorrect": 1
+          "Correct": 11,
+          "Incorrect": 5
         },
         {
           "Player": "Stup",
-          "Correct": 2,
-          "Incorrect": 4
+          "Correct": 9,
+          "Incorrect": 9
         },
         {
-          "Player": "Alexander",
-          "Correct": 1,
-          "Incorrect": 2
+          "Player": "Trace",
+          "Correct": 9,
+          "Incorrect": 8
         },
         {
           "Player": "Ryan",
-          "Correct": 1,
-          "Incorrect": 3
+          "Correct": 8,
+          "Incorrect": 8
+        },
+        {
+          "Player": "Alexander",
+          "Correct": 7,
+          "Incorrect": 9
         }
       ]
     }
@@ -1378,7 +1380,7 @@
       ]
     }
   ],
-  "gamesPlayed": 210,
+  "gamesPlayed": 248,
   "possiblePointsAvailable": true,
   "scheduleGameCount": 1200
 }
